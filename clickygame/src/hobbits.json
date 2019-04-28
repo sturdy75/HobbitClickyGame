@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "bifur.jpg"
+    },
+    {
+      "id": 2,
+      "image": "bilbo.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "bofur.jpg"
+    },
+    {
+      "id": 4,
+      "image": "fili.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "galadriel.jpg"
+    },
+    {
+      "id": 6,
+      "image": "gandalf.jpg"
+    },
+    {
+      "id": 7,
+      "image": "gloin.jpg"
+    },
+    {
+      "id": 8,
+      "image": "gollum.jpg"
+    },
+    {
+      "id": 9,
+      "image": "kili.jpg"
+    },
+    {
+      "id": 10,
+      "image": "nori.jpg"
+    },
+    {
+      "id": 11,
+      "image": "thorin.jpg"
+    },
+    {
+      "id": 12,
+      "image": "elf.jpg"
+    }
+  ]
